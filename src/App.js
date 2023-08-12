@@ -19,7 +19,6 @@ function App() {
   return (
     <div >
       <Banner />
-      {/* <ButtonMap /> */}
       <Buttons 
         filterByType={filterByType}
         setSat={setSat}

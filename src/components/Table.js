@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './styling.css'
+import './styling.css'
 
 const Table = ({ sat }) => {
   
